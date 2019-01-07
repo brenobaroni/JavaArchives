@@ -1,0 +1,26 @@
+package course;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Scanner key = new Scanner(System.in);
+		
+		
+		System.out.println("Digite a idade:");
+		int n1 = key.nextInt();
+		key.nextLine();
+		System.out.println("Digite o nome:");
+		String name = key.nextLine();
+		
+		System.out.println(n1);
+		System.out.println(name);
+		
+		key.close();
+
+	}
+
+}

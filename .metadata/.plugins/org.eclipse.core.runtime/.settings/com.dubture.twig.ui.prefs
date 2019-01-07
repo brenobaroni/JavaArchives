@@ -1,0 +1,16 @@
+codeStyleNormal=\#D9E8F7 | null | null | null | null | null
+eclipse.preferences.version=1
+editorBlocknameColor=\#DD2867 | null | true | null | null | null
+editorColorBoundarymaker=\#D9E8F7 | null | null | null | null | null
+editorColorComment=\#626262 | null | null | null | null | null
+editorColorHeredoc=\#626262 | null | null | true | null | null
+editorColorKeyword=\#DD2867 | null | true | null | null | null
+editorColorLineComment=\#626262 | null | null | null | null | null
+editorColorNumber=\#6897BB | null | null | null | null | null
+editorColorPHPDocComment=\#626262 | null | null | true | null | null
+editorColorPhpdoc=\#626262 | null | null | true | null | null
+editorColorString=\#17C6A3 | null | null | true | null | null
+editorColorTask=\#626262 | null | true | null | null | null
+editorColorVariable=\#FFBF26 | null | null | null | null | null
+editorStmtColorBoundarymaker=\#D9E8F7 | null | null | null | null | null
+overriddenByCSS=,editorColorHeredoc,editorColorPhpdoc,codeStyleNormal,editorColorComment,editorColorTask,editorColorVariable,editorBlocknameColor,editorColorBoundarymaker,editorColorPHPDocComment,editorColorString,editorStmtColorBoundarymaker,editorColorKeyword,editorColorLineComment,editorColorNumber,

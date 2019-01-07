@@ -1,0 +1,26 @@
+package course;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Scanner key = new Scanner(System.in);
+		
+		String sentence = key.nextLine();
+		String x = key.nextLine();
+		String y = key.nextLine();
+		String z = key.nextLine();
+		
+		System.out.println(sentence);
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(z);
+		
+		key.close();
+
+	}
+
+}

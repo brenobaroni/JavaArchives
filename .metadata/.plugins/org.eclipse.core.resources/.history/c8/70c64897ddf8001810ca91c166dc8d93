@@ -1,0 +1,22 @@
+package course;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		byte x = 10;
+		
+		boolean piroca = true;
+		
+		double treta = 10.35784;
+			
+		System.out.printf("%.2f", treta);
+
+
+	}
+
+}

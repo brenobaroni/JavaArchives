@@ -1,0 +1,40 @@
+package course;
+
+import java.util.Scanner;
+
+public class elseif {
+	
+	static int n;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		programa();
+
+	}
+	
+	
+	public static void programa() {
+		Scanner key = new Scanner(System.in);
+		System.out.println("digite um numero:");
+		n = key.nextInt();
+		
+		
+		parimpar();
+		
+		key.close();
+		
+		programa();
+	}
+	
+	
+	public static void parimpar() {
+		if(n % 2 == 0) {
+			System.out.printf("%d é um numero par.", n);
+		}else {
+			System.out.printf("%d é um numero impar", n);
+		}
+	
+	}
+
+}
